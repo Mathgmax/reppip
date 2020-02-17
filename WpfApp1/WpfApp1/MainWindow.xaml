@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock>V3</TextBlock>
+        <TextBlock>V4</TextBlock>
     </Grid>
 </Window>
